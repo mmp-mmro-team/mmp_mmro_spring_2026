@@ -5,7 +5,7 @@
 <img src="http://funzoo.ru/uploads/posts/2009-11/1258648863_tn.jpg" height=200pt> <img src="https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/trash/kernel_trick.jpg" height=200pt>
 </p>
 
-:white_check_mark: **Курс сдается через систему [anytask](). Инвайт можете получить у преподавателя**
+:white_check_mark: **Курс сдается через систему [anytask](https://anytask.org/course/1269). Инвайт можете получить у преподавателя**
 
 :white_check_mark: **Полезные ссылки:**
 
