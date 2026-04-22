@@ -71,13 +71,13 @@
 | 26 февраля | 10:30 | Семинар 3 |Оптимизация: Метод Ньютона. Квазиньютоновские методы | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar3_MO_second_order.pdf) | ¯\\\_(ツ)\_/¯  | 
 | 5 марта | 10:00 | Семинар 4 | ЕМ-алгоритм: сходимость, скорость сходимости, связь с градиентным подъёмом | [Конспект](https://github.com/esokolov/ml-course-hse/blob/master/2020-spring/lecture-notes/lecture15-em.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 11 марта | 10:30 | Семинар 5 | <ul><li>ЕМ-алгоритм: решение задач (смеси распределений, GLAD)</li></ul> | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar5_EM_problems.pdf) | [Дз на оптимизацию](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/tree/main/Homeworks/EM) |
-| 16 марта | 14:35 | Семинар 5.1 | <ul><li>ЕМ-алгоритм: пример решения super resolution</li></ul> |  | ¯\\\_(ツ)\_/¯ |
-| 19 марта | 10:30 | Семинар 6 | Кластеризация: введение, основные методы |  | ¯\\\_(ツ)\_/¯ | 
-| 26 марта | 8:45 | Семинар 7 | Кластеризация: спектральная кластеризация, оценки качества |  | ¯\\\_(ツ)\_/¯ |
-| 2 апреля | 10:30 | Семинар 8 | Кластеризация: обучение метрик |  |  ¯\\\_(ツ)\_/¯ |
-| 9 апреля | 8:45 | Семинар 9 | Кластеризация: тематическое моделирование |  | ¯\\\_(ツ)\_/¯ |
-| 16 апреля | 10:00 | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, функция Беллмана в непрерывном и дикретном случае |  | ¯\\\_(ツ)\_/¯ |
-| 23 апреля | 10:00 | Семинар 11 | OCRL: Уравнения Риккати, Policy и Value Iteration  | | ¯\\\_(ツ)\_/¯ |
-| 29 апреля | 10:00 | Семинар 12 | OCRL: A2C |  | ¯\\\_(ツ)\_/¯ |
+| 16 марта | 14:35 | Семинар 5.1 | <ul><li>ЕМ-алгоритм: пример решения super resolution</li></ul> | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar5_EM_part2_super_resolution.ipynb) | ¯\\\_(ツ)\_/¯ |
+| 19 марта | 10:30 | Семинар 6 | Кластеризация: введение, основные методы | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_6_Clasterization.pdf) | ¯\\\_(ツ)\_/¯ | 
+| 26 марта | 8:45 | Семинар 7 | Кластеризация: спектральная кластеризация, оценки качества | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/spectral_clustering_seminar.pdf) | ¯\\\_(ツ)\_/¯ |
+| 2 апреля | 10:30 | Семинар 8 | Кластеризация: обучение метрик | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_8_metric_learning.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 9 апреля | 8:45 | Семинар 9 | Кластеризация: тематическое моделирование | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_9.pdf)  | ¯\\\_(ツ)\_/¯ |
+| 16 апреля | 10:00 | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, функция Беллмана в непрерывном и дикретном случае | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | ¯\\\_(ツ)\_/¯ |
+| 23 апреля | 10:00 | Семинар 11 | OCRL: Уравнения Риккати, Policy и Value Iteration  | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | ¯\\\_(ツ)\_/¯ |
+| 29 апреля | 10:00 | Семинар 12 | OCRL: A2C | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | ¯\\\_(ツ)\_/¯ |
 | 7 мая | В разработке | Семинар 13 | Бонусный семинар ||  ¯\\\_(ツ)\_/¯ |
 | 14 мая | Выходной | Выходной |  |  | ¯\\\_(ツ)\_/¯ |
