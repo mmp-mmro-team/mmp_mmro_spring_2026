@@ -78,6 +78,6 @@
 | 9 апреля | 8:45 | Семинар 9 | Кластеризация: тематическое моделирование | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_9.pdf)  | ¯\\\_(ツ)\_/¯ |
 | 16 апреля | 10:00 | Семинар 10 | OCRL(Optimat Control Reinforcement Learning): Постановка задачи, функция Беллмана в непрерывном и дикретном случае | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | ¯\\\_(ツ)\_/¯ |
 | 23 апреля | 10:00 | Семинар 11 | OCRL: Уравнения Риккати, Policy и Value Iteration  | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | ¯\\\_(ツ)\_/¯ |
-| 29 апреля | 10:00 | Семинар 12 | OCRL: A2C | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | ¯\\\_(ツ)\_/¯ |
+| 29 апреля | 10:00 | Семинар 12 | OCRL: A2C | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/blob/main/Seminars/Seminar_10_11_12_OCRL.pdf) | [ДЗ](https://github.com/mmp-mmro-team/mmp_mmro_spring_2026/tree/main/Homeworks/OCRL) |
 | 7 мая | В разработке | Семинар 13 | Бонусный семинар ||  ¯\\\_(ツ)\_/¯ |
 | 14 мая | Выходной | Выходной |  |  | ¯\\\_(ツ)\_/¯ |
